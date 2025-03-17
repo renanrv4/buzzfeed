@@ -1,0 +1,55 @@
+{
+  "title": "O quanto você é nerd?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual dessas atividades você mais gosta?",
+      "options": [
+        { "id": 1, "name": "Maratonar séries e animes", "alias": "N" },
+        { "id": 2, "name": "Praticar esportes", "alias": "O" },
+        { "id": 3, "name": "Jogar videogame ou RPG", "alias": "N" },
+        { "id": 4, "name": "Sair para festas", "alias": "O" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você faz no tempo livre?",
+      "options": [
+        { "id": 1, "name": "Leio quadrinhos ou livros de ficção científica", "alias": "N" },
+        { "id": 2, "name": "Assisto esportes na TV", "alias": "O" },
+        { "id": 3, "name": "Faço maratonas de Star Wars ou Senhor dos Anéis", "alias": "N" },
+        { "id": 4, "name": "Prefiro sair e socializar", "alias": "O" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Você se considera uma pessoa mais...",
+      "options": [
+        { "id": 1, "name": "Introvertida e focada em hobbies específicos", "alias": "N" },
+        { "id": 2, "name": "Extrovertida e aberta a qualquer tipo de evento", "alias": "O" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você escolhe um filme para assistir?",
+      "options": [
+        { "id": 1, "name": "Escolho baseando-me no universo ou no diretor", "alias": "N" },
+        { "id": 2, "name": "O que estiver bombando no momento", "alias": "O" },
+        { "id": 3, "name": "Prefiro clássicos cult ou sci-fi", "alias": "N" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "O que você acha de matemática e tecnologia?",
+      "options": [
+        { "id": 1, "name": "Amo e sempre me interessei por essas áreas", "alias": "N" },
+        { "id": 2, "name": "Não tenho paciência para isso", "alias": "O" },
+        { "id": 3, "name": "Uso quando preciso, mas não sou muito fã", "alias": "O" }
+      ]
+    }
+  ],
+  "results": {
+    "N": "Parabéns, você é um verdadeiro nerd! Seu conhecimento e paixão por cultura geek são incríveis!",
+    "O": "Talvez você não seja tão nerd assim, mas quem sabe ainda descubra seu lado geek no futuro?"
+  }
+}
